@@ -72,14 +72,14 @@ Mô hình Waterfall bao gồm 6 giai đoạn chính:
 - [x] Hoàn thành mã nguồn và chức năng chính  
 - [x] Kiểm thử toàn bộ hệ thống  
 - [x] Sản phẩm sẵn sàng triển khai  
-## 5. ⚠️ Khó Khăn & Giải Pháp
+## 5. Khó Khăn & Giải Pháp
 
 - **Khó khăn:** Phân tích yêu cầu ban đầu khó do chưa rõ nhu cầu người dùng  
   **→ Giải pháp:** Làm việc nhóm kỹ lưỡng, hỏi ý kiến giảng viên
 
 - **Khó khăn:** Thiết lập môi trường làm việc thống nhất giữa các thành viên  
   **→ Giải pháp:** Chuẩn hóa công cụ & thư viện ngay từ đầu
-## 6. 📌 Kết Luận
+## 6. Kết Luận
 
 Dự án đã hoàn tất đúng theo kế hoạch dựa trên mô hình Waterfall. Nhóm đã học được:
 - Cách phát triển phần mềm theo quy trình chuyên nghiệp
