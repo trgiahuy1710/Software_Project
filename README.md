@@ -50,6 +50,8 @@ Mô hình Waterfall bao gồm 6 giai đoạn chính:
 ### 2.6. Bảo Trì (Maintenance)
 - Ghi nhận phản hồi, sửa lỗi sau khi triển khai.
 - Cập nhật phiên bản nếu cần thiết.
+
+---
 ## 3. Phân Công Công Việc
 
 | Thành viên | Mã Sinh Viên | Công việc phụ trách | Ghi chú |
@@ -66,12 +68,15 @@ Mô hình Waterfall bao gồm 6 giai đoạn chính:
 - [@nvluong-05](https://github.com/nvluong-05)
 - [@VuDao381](https://github.com/VuDao381)
 
-## 4. ✅ Kết Quả Đạt Được
+---
+## 4. Kết Quả Đạt Được
 - [x] Hoàn thành tài liệu SRS  
 - [x] Hoàn thành thiết kế hệ thống  
 - [x] Hoàn thành mã nguồn và chức năng chính  
 - [x] Kiểm thử toàn bộ hệ thống  
-- [x] Sản phẩm sẵn sàng triển khai  
+- [x] Sản phẩm sẵn sàng triển khai
+
+---  
 ## 5. Khó Khăn & Giải Pháp
 
 - **Khó khăn:** Phân tích yêu cầu ban đầu khó do chưa rõ nhu cầu người dùng  
@@ -79,12 +84,14 @@ Mô hình Waterfall bao gồm 6 giai đoạn chính:
 
 - **Khó khăn:** Thiết lập môi trường làm việc thống nhất giữa các thành viên  
   **→ Giải pháp:** Chuẩn hóa công cụ & thư viện ngay từ đầu
+---
 ## 6. Kết Luận
 
 Dự án đã hoàn tất đúng theo kế hoạch dựa trên mô hình Waterfall. Nhóm đã học được:
 - Cách phát triển phần mềm theo quy trình chuyên nghiệp
 - Kỹ năng teamwork
 - Ứng dụng thực tế các công nghệ phần mềm đã học
+---
 ## Lời cảm ơn
 
  - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
