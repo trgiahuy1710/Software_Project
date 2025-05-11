@@ -1,0 +1,54 @@
+@import "../base/_base-dir";
+@import "../components/_components-dir";
+@import "../layout/_layout-dir";
+@import "../abstracts/variables";
+
+.wrapper {
+  .cart {
+    border-right: solid 0.2rem #ececec;
+    padding-right: 0;
+    margin-right: calc(var(--bs-gutter-x) * .5);
+
+    .item-img {
+      img {
+        height: 5rem;
+      }
+    }
+
+    .item-name {
+      color: #ff6f28;
+      font-size: 0.8rem;
+    }
+  }
+
+  .item-price, .item-subtotal, #total {
+    font-weight: bold;
+  }
+
+  .checkout {
+    .total-title {
+      border: solid 0.2rem black;
+      border-bottom: solid 0.2rem #ececec;
+    }
+
+  }
+
+  .update-btn, .checkout-btn {
+    background-color: #ff6f28;
+    font-weight: bold;
+    color: white;
+    a {
+      text-decoration: none;
+    }
+  }
+
+  .total-price {
+    border-bottom: solid 0.2rem #ececec;
+  }
+}
+
+@media (max-width: 992px) {
+  .wrapper > .cart {
+    border-right: none;
+  }
+}

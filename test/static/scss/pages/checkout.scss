@@ -1,0 +1,44 @@
+@import "../base/_base-dir";
+@import "../layout/_layout-dir";
+@import "../components/_components-dir";
+
+.page-title {
+  background-color: gray;
+  color: white;
+  padding: 1.5rem 0;
+
+  .inner-text {
+    padding-left: 2rem;
+    a, p {
+      text-decoration: none;
+      display: inline;
+      color: white;
+      font-size: 1.2rem;
+      padding: 0 1rem;
+    }
+  }
+}
+
+.highlight-title {
+  color: #ff6f28;
+  font-weight: bold;
+}
+
+.additional-note {
+  height: 15rem;
+}
+
+.item-info, .subtotal {
+  font-size: 0.8rem;
+}
+
+.order-details {
+  background-color: rgba(0, 0, 0, 0.02);
+  box-shadow: 1px 1px 3px 0px rgba(0, 0, 0, 0.2), 0 1px 0 rgba(0, 0, 0, 0.07), inset 0 0 0 1px rgba(0, 0, 0, 0.05);
+
+  .checkout-btn {
+    background-color: #ff6f28;
+    color: white;
+    font-weight: bold;
+  }
+}

@@ -1,0 +1,85 @@
+@import "../base/_base-dir";
+@import "../layout/_layout-dir";
+@import "../components/success-loader";
+@import "../components/quantity-btn";
+@import "../components/search-form";
+@import "../components/menu-dropdown";
+
+.page-title {
+  background-color: gray;
+  color: white;
+  padding: 1.5rem 0;
+
+  .inner-text {
+    padding-left: 2rem;
+    a, p {
+      text-decoration: none;
+      display: inline;
+      color: white;
+      font-size: 1.2rem;
+      padding: 0 1rem;
+    }
+  }
+}
+
+.wrapper {
+  padding-top: 2rem;
+
+  .upper-content {
+
+    .upper-text {
+      position: sticky;
+      top: 0;
+      margin-top: 1rem;
+      height: 100%;
+
+      h3 {
+        color: #ff6f28;
+        font-weight: bold;
+        margin-bottom: 1rem;
+      }
+
+      p {
+
+        span {
+          color: #ed1c24;
+          font-weight: bold;
+        }
+      }
+    }
+
+    .add-cart {
+      font-size: 0.8rem;
+      margin-top: 1rem;
+
+      #add {
+        margin-left: 2rem;
+        color: white;
+        font-weight: bold;
+        background-color: #ff6f28;
+        border-radius: 1rem;
+
+        :hover {
+          cursor: pointer;
+        }
+
+        :active {
+          border-color: rgba(black, 0);
+        }
+      }
+    }
+  }
+
+  .lower-content {
+    margin-top: 5rem;
+
+    h2, span {
+      font-weight: bold;
+      color: #ff6f28;
+    }
+
+    h2, p, img {
+      margin: 1rem 0;
+    }
+  }
+}
