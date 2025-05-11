@@ -57,11 +57,11 @@ Mô hình Waterfall bao gồm 6 giai đoạn chính:
 | Thành viên | Mã Sinh Viên | Công việc phụ trách | Ghi chú |
 |------------|---------|---------------------|---------|
 | Trịnh Gia Huy | 23010069 | Phân tích yêu cầu, tài liệu hóa | Trưởng nhóm |
-| Nguyễn Dương Tuấn Nguyên | 22010091 | Thiết kế hệ thống | |
-| Nguyễn Văn Lượng  |23010799 | Lập trình chức năng A | |
-| Đào Anh Vũ |23017197 | Lập trình chức năng B | |
+| Nguyễn Dương Tuấn Nguyên | 22010091 | Thiết kế hệ thống | Thành viên |
+| Nguyễn Văn Lượng  |23010799 | Lập trình chức năng A | Thành viên |
+| Đào Anh Vũ |23017197 | Lập trình chức năng B | Thành viên |
 
-## GitHub projile của các thành viên
+## GitHub Projile
 
 - [@trgiahuy1710](https://github.com/trgiahuy1710)
 - [@Nguynef](https://github.com/Nguynef)
