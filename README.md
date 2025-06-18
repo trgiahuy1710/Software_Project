@@ -107,7 +107,7 @@ Mô hình Waterfall được áp dụng qua 5 giai đoạn chính của dự án
 
 ## 6. Kết Luận
 
-Dự án hoàn thành các mục tiêu cơ bản, xây dựng thành công trang web bán đồng phục bóng đá với các chức năng thiết yếu. Hệ thống hoạt động ổn định và đáp ứng nhu cầu ban đầu. Nhóm đã tích lũy được nhiều kiến thức và xác định hướng phát triển để nâng cao chất lượng sản phẩm.
+Dự án hoàn thành các mục tiêu cơ bản, xây dựng thành công trang web bán đồng phục bóng đá với các chức năng thiết yếu. Hệ thống hoạt động ổn định và đáp ứng nhu cầu ban đầu. Nhóm đã tích lũy được nhiều kiến thức, xác định và định hướng phát triển để nâng cao chất lượng sản phẩm.
 
 ---
 
@@ -120,4 +120,4 @@ Dự án hoàn thành các mục tiêu cơ bản, xây dựng thành công trang
 
 ## 🛠 Skills
 
-Python, Flask, SQLite, JavaScript, HTML, CSS, Bootstrap
+Python, Flask, SQLite, JavaScript, HTML, CSS, Bootstrap. 
